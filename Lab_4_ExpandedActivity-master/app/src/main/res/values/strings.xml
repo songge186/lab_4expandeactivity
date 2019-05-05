@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lab_4_ExpandedActivity</string>
+    <string name="check_box_title">Checkbox preference</string>
+    <string name="pref_check_summ">This is a checkbox</string>
+    <string name="pref_list_title">List preference</string>
+    <string name="pref_dialog_title">Choose one</string>
+    <string name="pref_syncConnectionTypes_entries">pref_syncConnectionTypes_entries</string>
+    <string name="pref_list_summ">An example that uses a list  dialog</string>
+
+    <string name="prefs_category_one">In-line preference</string>
+    <string name="pref_sms_storage_title">In-line preference</string>
+    <string name="pref_list_storage_title">Dialog-based preferences</string>
+    <string name="pref_launch_storage_title">Launch preferences</string>
+    <string name="pref_screen_title">Screen preference</string>
+    <string name="pref_screen_summ">Shows another screen of preferences</string>
+    <string name="pref_screen_checkbox_title">Toggle preference</string>
+    <string name="pref_screen_checkbox_summ">Preference that is on the next screen but same hierarchy</string>
+
+    <array name="pref_syncConnectionTypes_entries">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </array>
+    <array name="pref_syncConnectionTypes_values">
+        <item>
+
+        </item>
+    </array>
+</resources>
